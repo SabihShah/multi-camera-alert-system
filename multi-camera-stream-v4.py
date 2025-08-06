@@ -1430,54 +1430,13 @@ def main():
     try:
         # Camera configuration - UPDATED FORMAT WITH NAMES
         camera_sources = [
-    {
-        "name": "ALPHA TECHNO SQUARE - 2",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.163:554/ch1/main/av_stream"
-    },
-    {
-        "name": "ALPHA TECHNO SQUARE - CAFE",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.158:554/ch1/main/av_stream"
-    },
-    {
-        "name": "A11 GATE VIEW",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.161:554/ch1/main/av_stream"
-    },
-    {
-        "name": "SCAN ROOM - 2",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.165:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 5",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.154:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 6",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.159:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 7",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.151:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 8",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.152:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 9",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.162:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 10",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.153:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 11",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.157:554/ch1/main/av_stream"
-    },
-    {
-        "name": "CAM - 12",
-        "url": "rtsp://admin:pakistan%40123@10.115.50.156:554/ch1/main/av_stream"
-    }
+            {
+                "name": "Camera Name",
+                "url": "Camera URL or 0 for webcam"
+            },
+            {
+              // Add more  
+            }
         ]
 
         # Initialize system with OpenCV only
