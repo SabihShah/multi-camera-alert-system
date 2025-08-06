@@ -1,8 +1,10 @@
-<div align="center">
+![Build Status](https://img.shields.io/badge/Security-AI%20Powered-red?style=for-the-badge&logo=shield)
+![Static Badge](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/OpenCV-4.8%2B-green?style=for-the-badge&logo=opencv)
+![Static Badge](https://img.shields.io/badge/YOLOv8-Ultralytics-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CUDA-Accelerated-76B900?style=for-the-badge&logo=nvidia)
   
 # Multi camera intruder detection with alerts #
-
-</div>
 
 **A high-performance, multi-camera security monitoring system with real-time AI-powered person detection, boundary crossing alerts, and optimized streaming architecture**
 
